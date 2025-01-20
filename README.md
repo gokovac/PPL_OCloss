@@ -4,8 +4,7 @@ This repository contains necessary files for the implementation of Pull-Push Los
 For wav2vec 2.0 - AASIST model, the implementation given in [this](https://github.com/TakHemlata/SSL_Anti-spoofing) repository is followed. 
 
 # Pre-trained model for LA 
-You can download the pre-trained model [here](https://drive.google.com/file/d/1ulhJhSk0-paSentTgNVhaWwJhRmu7oJk/view?usp=drive_link).
-PPL layer can be downloaded [here](https://drive.google.com/file/d/1hgfED0Ul5zJJxV-WSCcxlVvOFK6Thg-T/view?usp=drive_link).
+You can download the pre-trained model [here](https://drive.google.com/file/d/1ulhJhSk0-paSentTgNVhaWwJhRmu7oJk/view?usp=drive_link) and PPL layer [here](https://drive.google.com/file/d/1hgfED0Ul5zJJxV-WSCcxlVvOFK6Thg-T/view?usp=drive_link).
 
 Results with the pre-trained model: 
 EER: 0.13%, min t-DCF: 0.0039 for ASVspoof 2019 LA evaluation.
